@@ -1,4 +1,4 @@
-FROM ubuntu:noble
+FROM ubuntu
 
 # Nimbix image-common desktop
 RUN apt-get -y update && \
